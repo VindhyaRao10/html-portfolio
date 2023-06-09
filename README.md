@@ -11,7 +11,7 @@ List of elements used:
 7. Ordered list
 8. Tag (href-the URL, draggable- drags the text)
 9. Image
-alt - alternative text description 
+(alt - alternative text description)
   
 10. Adressing a File:
 “../“ - moves up a directory 
